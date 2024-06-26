@@ -58,3 +58,7 @@ body{
     width: 24px ;
     padding: 24px 1 ;
 }
+
+.estudante-div{
+    align-items: center;
+}
