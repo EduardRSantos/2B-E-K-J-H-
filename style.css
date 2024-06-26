@@ -61,9 +61,6 @@ body{
 
 .estudante-div{
     text-align: center;
-    display: grid;
-    grid-template-columns: 20%  20% 20% ;
-
 }
 
 .estudante-titulo{
@@ -71,6 +68,7 @@ body{
     padding: 50px 0;
 }
 
-
+.estudante-todos{
     display: grid;
-    grid-template-columns: 20%  20% 20% ;
+    grid-template-columns: 20%  20% 20% 20% 20% ;
+}
